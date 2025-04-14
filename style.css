@@ -9,7 +9,7 @@ body {
   html {
     scroll-behavior: smooth;
   }
-  
+  /*nav*/
   .navbar {
     background: teal;
     color: white;
